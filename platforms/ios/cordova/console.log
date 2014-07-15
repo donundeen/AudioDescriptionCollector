@@ -1,0 +1,164 @@
+2014-06-08 18:06:47.308 AudioDescription[7375:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-08 18:06:47.333 AudioDescription[7375:70b] Unlimited access to network resources
+2014-06-08 18:06:47.338 AudioDescription[7375:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-08 18:06:47.520 AudioDescription[7375:70b] [CDVTimer][file] 2.560019ms
+2014-06-08 18:06:47.520 AudioDescription[7375:70b] [CDVTimer][TotalPluginStartup] 3.064990ms
+2014-06-08 18:06:47.697 AudioDescription[7375:70b] Resetting plugins due to page load.
+2014-06-08 18:06:47.799 AudioDescription[7375:70b] Finished load of: file:///Users/donundeen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/175BF610-49A7-467B-86D4-8CC44ECE739A/AudioDescription.app/www/index.html
+2014-06-08 18:45:07.729 AudioDescription[8054:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-08 18:45:07.737 AudioDescription[8054:70b] Unlimited access to network resources
+2014-06-08 18:45:07.741 AudioDescription[8054:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-08 18:45:07.760 AudioDescription[8054:70b] [CDVTimer][file] 1.816988ms
+2014-06-08 18:45:07.761 AudioDescription[8054:70b] [CDVTimer][TotalPluginStartup] 2.273023ms
+2014-06-08 18:45:07.888 AudioDescription[8054:70b] Resetting plugins due to page load.
+2014-06-08 18:45:07.968 AudioDescription[8054:70b] Finished load of: file:///Users/donundeen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/175BF610-49A7-467B-86D4-8CC44ECE739A/AudioDescription.app/www/index.html
+2014-06-08 18:45:08.072 AudioDescription[8054:70b] THREAD WARNING: ['Device'] took '31.743896' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-06-08 18:46:29.782 AudioDescription[8339:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-08 18:46:29.792 AudioDescription[8339:70b] Unlimited access to network resources
+2014-06-08 18:46:29.796 AudioDescription[8339:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-08 18:46:29.815 AudioDescription[8339:70b] [CDVTimer][file] 1.860976ms
+2014-06-08 18:46:29.815 AudioDescription[8339:70b] [CDVTimer][TotalPluginStartup] 2.393007ms
+2014-06-08 18:46:29.927 AudioDescription[8339:70b] Resetting plugins due to page load.
+2014-06-08 18:46:29.991 AudioDescription[8339:70b] Finished load of: file:///Users/donundeen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/175BF610-49A7-467B-86D4-8CC44ECE739A/AudioDescription.app/www/index.html
+2014-06-08 18:46:57.725 AudioDescription[8339:70b] THREAD WARNING: ['Media'] took '25.513916' ms. Plugin should use a background thread.
+2014-06-08 18:49:04.419 AudioDescription[8626:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-08 18:49:04.428 AudioDescription[8626:70b] Unlimited access to network resources
+2014-06-08 18:49:04.431 AudioDescription[8626:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-08 18:49:04.452 AudioDescription[8626:70b] [CDVTimer][file] 1.824021ms
+2014-06-08 18:49:04.452 AudioDescription[8626:70b] [CDVTimer][TotalPluginStartup] 2.322018ms
+2014-06-08 18:49:04.560 AudioDescription[8626:70b] Resetting plugins due to page load.
+2014-06-08 18:49:04.624 AudioDescription[8626:70b] Finished load of: file:///Users/donundeen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/175BF610-49A7-467B-86D4-8CC44ECE739A/AudioDescription.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-06-08 18:52:09.952 AudioDescription[8914:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-08 18:52:09.960 AudioDescription[8914:70b] Unlimited access to network resources
+2014-06-08 18:52:09.963 AudioDescription[8914:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-08 18:52:09.981 AudioDescription[8914:70b] [CDVTimer][file] 1.738966ms
+2014-06-08 18:52:09.982 AudioDescription[8914:70b] [CDVTimer][TotalPluginStartup] 2.208054ms
+2014-06-08 18:52:10.033 AudioDescription[8914:70b] Resetting plugins due to page load.
+2014-06-08 18:52:10.098 AudioDescription[8914:70b] Finished load of: file:///Users/donundeen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/175BF610-49A7-467B-86D4-8CC44ECE739A/AudioDescription.app/www/index.html
+2014-06-08 18:54:34.693 AudioDescription[9200:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-08 18:54:34.701 AudioDescription[9200:70b] Unlimited access to network resources
+2014-06-08 18:54:34.704 AudioDescription[9200:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-08 18:54:34.724 AudioDescription[9200:70b] [CDVTimer][file] 1.845002ms
+2014-06-08 18:54:34.725 AudioDescription[9200:70b] [CDVTimer][TotalPluginStartup] 2.336025ms
+2014-06-08 18:54:34.781 AudioDescription[9200:70b] Resetting plugins due to page load.
+2014-06-08 18:54:34.856 AudioDescription[9200:70b] Finished load of: file:///Users/donundeen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/175BF610-49A7-467B-86D4-8CC44ECE739A/AudioDescription.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-06-08 19:00:23.135 AudioDescription[9503:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-08 19:00:23.145 AudioDescription[9503:70b] Unlimited access to network resources
+2014-06-08 19:00:23.148 AudioDescription[9503:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-08 19:00:23.168 AudioDescription[9503:70b] [CDVTimer][file] 1.806021ms
+2014-06-08 19:00:23.169 AudioDescription[9503:70b] [CDVTimer][TotalPluginStartup] 2.314031ms
+2014-06-08 19:00:23.268 AudioDescription[9503:70b] Resetting plugins due to page load.
+2014-06-08 19:00:23.339 AudioDescription[9503:70b] Finished load of: file:///Users/donundeen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/175BF610-49A7-467B-86D4-8CC44ECE739A/AudioDescription.app/www/index.html
+2014-06-08 19:01:20.608 AudioDescription[9785:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-08 19:01:20.616 AudioDescription[9785:70b] Unlimited access to network resources
+2014-06-08 19:01:20.619 AudioDescription[9785:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-08 19:01:20.640 AudioDescription[9785:70b] [CDVTimer][file] 1.941025ms
+2014-06-08 19:01:20.640 AudioDescription[9785:70b] [CDVTimer][TotalPluginStartup] 2.418995ms
+2014-06-08 19:01:20.692 AudioDescription[9785:70b] Resetting plugins due to page load.
+2014-06-08 19:01:20.759 AudioDescription[9785:70b] Finished load of: file:///Users/donundeen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/175BF610-49A7-467B-86D4-8CC44ECE739A/AudioDescription.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-06-08 19:03:55.034 AudioDescription[10071:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-08 19:03:55.042 AudioDescription[10071:70b] Unlimited access to network resources
+2014-06-08 19:03:55.045 AudioDescription[10071:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-08 19:03:55.065 AudioDescription[10071:70b] [CDVTimer][file] 1.748979ms
+2014-06-08 19:03:55.066 AudioDescription[10071:70b] [CDVTimer][TotalPluginStartup] 2.232969ms
+2014-06-08 19:03:55.170 AudioDescription[10071:70b] Resetting plugins due to page load.
+2014-06-08 19:03:55.223 AudioDescription[10071:70b] Finished load of: file:///Users/donundeen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/175BF610-49A7-467B-86D4-8CC44ECE739A/AudioDescription.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-06-08 19:04:56.427 AudioDescription[10347:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-08 19:04:56.435 AudioDescription[10347:70b] Unlimited access to network resources
+2014-06-08 19:04:56.438 AudioDescription[10347:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-08 19:04:56.457 AudioDescription[10347:70b] [CDVTimer][file] 2.045035ms
+2014-06-08 19:04:56.458 AudioDescription[10347:70b] [CDVTimer][TotalPluginStartup] 2.557993ms
+2014-06-08 19:04:56.573 AudioDescription[10347:70b] Resetting plugins due to page load.
+2014-06-08 19:04:56.637 AudioDescription[10347:70b] Finished load of: file:///Users/donundeen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/175BF610-49A7-467B-86D4-8CC44ECE739A/AudioDescription.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-06-08 19:06:51.245 AudioDescription[10626:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-08 19:06:51.254 AudioDescription[10626:70b] Unlimited access to network resources
+2014-06-08 19:06:51.260 AudioDescription[10626:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-08 19:06:51.280 AudioDescription[10626:70b] [CDVTimer][file] 1.883030ms
+2014-06-08 19:06:51.280 AudioDescription[10626:70b] [CDVTimer][TotalPluginStartup] 2.364993ms
+2014-06-08 19:06:51.390 AudioDescription[10626:70b] Resetting plugins due to page load.
+2014-06-08 19:06:51.444 AudioDescription[10626:70b] Finished load of: file:///Users/donundeen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/175BF610-49A7-467B-86D4-8CC44ECE739A/AudioDescription.app/www/index.html
+2014-06-08 19:07:44.346 AudioDescription[10903:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-08 19:07:44.355 AudioDescription[10903:70b] Unlimited access to network resources
+2014-06-08 19:07:44.359 AudioDescription[10903:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-08 19:07:44.377 AudioDescription[10903:70b] [CDVTimer][file] 1.720965ms
+2014-06-08 19:07:44.377 AudioDescription[10903:70b] [CDVTimer][TotalPluginStartup] 2.207994ms
+2014-06-08 19:07:44.486 AudioDescription[10903:70b] Resetting plugins due to page load.
+2014-06-08 19:07:44.544 AudioDescription[10903:70b] Finished load of: file:///Users/donundeen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/175BF610-49A7-467B-86D4-8CC44ECE739A/AudioDescription.app/www/index.html

@@ -27,7 +27,11 @@
                             "count": 1
                         },
                         {
-                            "xml": "<feature name=\"Media\"><param name=\"android-package\" value=\"org.apache.cordova.media.AudioHandler\" /></feature>",
+                            "xml": "<feature name=\"Device\"><param name=\"android-package\" value=\"org.apache.cordova.device.Device\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"FileTransfer\"><param name=\"android-package\" value=\"org.apache.cordova.filetransfer.FileTransfer\" /></feature>",
                             "count": 1
                         },
                         {
@@ -35,11 +39,7 @@
                             "count": 1
                         },
                         {
-                            "xml": "<feature name=\"Device\"><param name=\"android-package\" value=\"org.apache.cordova.device.Device\" /></feature>",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"FileTransfer\"><param name=\"android-package\" value=\"org.apache.cordova.filetransfer.FileTransfer\" /></feature>",
+                            "xml": "<feature name=\"Media\"><param name=\"android-package\" value=\"org.apache.cordova.media.AudioHandler\" /></feature>",
                             "count": 1
                         }
                     ]
@@ -77,15 +77,15 @@
                             "count": 2
                         },
                         {
+                            "xml": "<uses-permission android:name=\"android.permission.RECORD_VIDEO\" />",
+                            "count": 1
+                        },
+                        {
                             "xml": "<uses-permission android:name=\"android.permission.MODIFY_AUDIO_SETTINGS\" />",
                             "count": 1
                         },
                         {
                             "xml": "<uses-permission android:name=\"android.permission.READ_PHONE_STATE\" />",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<uses-permission android:name=\"android.permission.RECORD_VIDEO\" />",
                             "count": 1
                         }
                     ]
@@ -103,19 +103,19 @@
         "org.apache.cordova.file": {
             "PACKAGE_NAME": "com.undeen.dev"
         },
-        "org.apache.cordova.media": {
-            "PACKAGE_NAME": "com.undeen.dev"
-        },
-        "org.apache.cordova.media-capture": {
-            "PACKAGE_NAME": "com.undeen.dev"
-        },
         "org.apache.cordova.device": {
+            "PACKAGE_NAME": "com.undeen.dev"
+        },
+        "org.apache.cordova.console": {
             "PACKAGE_NAME": "com.undeen.dev"
         },
         "org.apache.cordova.file-transfer": {
             "PACKAGE_NAME": "com.undeen.dev"
         },
-        "org.apache.cordova.console": {
+        "org.apache.cordova.media-capture": {
+            "PACKAGE_NAME": "com.undeen.dev"
+        },
+        "org.apache.cordova.media": {
             "PACKAGE_NAME": "com.undeen.dev"
         }
     },

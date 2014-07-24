@@ -1,34 +1,23 @@
-// server that listens for file uploads
-
-var express = require('express'),
+var formidable = require('formidable'),
     http = require('http'),
-    path = require('path');
+    util = require('util');
 
-var Percolator = require('percolator').Percolator;
-var server = new Percolator({port : 3456});
+http.createServer(function(req, res) {
+	console.log(req.url);
+  if (req.url == '/upload' && req.method.toLowerCase() == 'post') {
+    // parse a file upload
+    var form = new formidable.IncomingForm();
 
-server.route(
+    form.parse(req, function(err, fields, files) {
+      res.writeHead(200, {'content-type': 'text/plain'});
+      res.write('received upload:\n\n');
+      console.log(util.inspect({fields: fields, files: files}));
 
-  '*', {  
-    PUT : function(req, res){
-    	console.log("got request");
-		res.object({message : 'heard your PUT request'}).send();    	
-	},
-    POST : function(req, res){
-    	console.log("got request");
-		res.object({message : 'heard your POST request'}).send();    	
-	},
-    GET : function(req, res){
-    	console.log("got GET request");
-		res.object({message : 'heard your GET request'}).send();    	
-	}
-	
-});
+      console.log(files.file.path);
 
+      res.end(util.inspect({fields: fields, files: files}));
+    });
 
-server.listen(function(err){
-	if(err){
-		console.log(err);
-	}
-  console.log('server is listening on port ', server.port);
-});
+    return;
+  }
+}).listen(3456);;

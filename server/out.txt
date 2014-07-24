@@ -1,0 +1,15 @@
+/upload
+{ fields: {},
+  files: 
+   { file: 
+      { domain: null,
+        _events: {},
+        _maxListeners: 10,
+        size: 5484,
+        path: '/var/folders/sj/ckll4n2n6nqf1gmkq9y385qm0000gn/T/a0df09c9481b7fafe82596ac6ab3bec2',
+        name: 'filename.jpg',
+        type: 'image/jpeg',
+        hash: null,
+        lastModifiedDate: Wed Jul 23 2014 23:43:00 GMT-0400 (EDT),
+        _writeStream: [Object] } } }
+/var/folders/sj/ckll4n2n6nqf1gmkq9y385qm0000gn/T/a0df09c9481b7fafe82596ac6ab3bec2

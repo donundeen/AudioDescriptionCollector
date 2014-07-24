@@ -87,13 +87,13 @@ function uploadImage (imageURI, params) {
     ft.upload(imageURI, serverUrl + "/upload",
               function (e) {
                 // upload ok
-              document.getElementById("indicator").innerHTML = "image Uploaded";
+              document.getElementById("indicator").innerHTML = "image Uploaded " +imageURI;
               },
               function (e) {
               document.getElementById("indicator").innerHTML = "image Upload FAILED " + e.code + " : " + e.http_status + " : " + e.target;
               }, options);
  
-}
+    }
 
 
         // simulator doesn't allow us to use system camera, so we have to fudge around with this part.
@@ -104,7 +104,7 @@ function uploadImage (imageURI, params) {
                 var image = document.getElementById('theImage');
                 image.src = imageUri;
                 allImages[imageUri] = image;
-                uploadImage(imageUri, {});
+                uploadImage(imageUri, {foo : "bar"});
             }
             
             function cameraError(error){

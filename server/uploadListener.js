@@ -18,6 +18,8 @@ http.createServer(function(req, res) {
 
       var filename = files.file.path;
 
+
+      // will need a proper way to name files, and associate them with metadata. filesystem-based? couch? something easier?
       var outpath = "./uploads/newfile.jpg";
 
 

@@ -1,6 +1,7 @@
 var formidable = require('formidable'),
     http = require('http'),
-    util = require('util');
+    util = require('util'),
+    fs = require('fs');
 
 http.createServer(function(req, res) {
 	console.log(req.url);
@@ -14,6 +15,14 @@ http.createServer(function(req, res) {
       console.log(util.inspect({fields: fields, files: files}));
 
       console.log(files.file.path);
+
+      var filename = files.file.path;
+
+      var outpath = "./uploads/newfile.jpg";
+
+
+
+      fs.createReadStream(filename).pipe(fs.createWriteStream(outpath));
 
       res.end(util.inspect({fields: fields, files: files}));
     });

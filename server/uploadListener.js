@@ -3,6 +3,14 @@ var formidable = require('formidable'),
     util = require('util'),
     fs = require('fs');
 
+var mysecrets  = require ("./secrets.js").secrets();
+var db_name = mysecrets.db_name;
+
+
+var nano = require('nano')('http://localhost:5984');
+var db = nano.use(db_name);
+
+
 http.createServer(function(req, res) {
 	console.log(req.url);
   if (req.url == '/upload' && req.method.toLowerCase() == 'post') {
@@ -31,4 +39,6 @@ http.createServer(function(req, res) {
 
     return;
   }
+
+  
 }).listen(3456);;
